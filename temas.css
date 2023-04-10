@@ -22,29 +22,32 @@
 }
 
 .tecnología{
-    width: 100px;
+    width: 330px;
     height: 48px;
     background-color: aliceblue;
     margin: 2px;
+    font-size: 30px;
 }
 .sociales{
-    width: 100px;
+    width: 330px;
     height: 48px;
     background-color: aliceblue;
     margin: 2px;
-
+font-size: 30px;
 }
 .biología{
-    width: 100px;
+    width: 320px;
     height: 48px;
     background-color: aliceblue;
     margin: 2px;
+    font-size: 30px;
 }
 .matemáticas{
-    width: 100px;
+    width: 330px;
     height: 48px;
     background-color: aliceblue;
     margin: 2px;
+    font-size: 30px;
 }
 .contenedorp2{
     display: flex;
